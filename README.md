@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Onur Savran
-### SRE | Linux Engineer | Cloud Enginer
+### SRE | Linux Engineer | Cloud Engineer
 
 I am a technical professional focused on building scalable, reliable, and automated infrastructure. Currently, I am deepening my expertise in Cloud Native technologies and Site Reliability Engineering (SRE) while mastering advanced English for global collaboration.
 
